@@ -1,1 +1,1 @@
-pint("Anyádat");
+print("Anyádat");
