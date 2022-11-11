@@ -1,1 +1,1 @@
-print("Anyádat");
+print("Anyádat");e5
